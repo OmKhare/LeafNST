@@ -1,6 +1,7 @@
 # LeafNST
 
-An Improved Data Augmentation Method for Classification of Plant Disease using Object-Based Neural Style Transfer
+An Improved Data Augmentation Method for Classification of Plant Disease using Object-Based Neural Style Transfer <br/>
+[Project Report](https://drive.google.com/file/d/16NUbJcSNPIigySctF38LPi9Vj-yMlZ9b/view?usp=sharing)
 
 ## Motivation
 - Plant diseases significantly threaten global agriculture, impacting crop yield and food security and nearly 30% of the crop yield is lost due to plant diseases.
